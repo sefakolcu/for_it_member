@@ -6,7 +6,7 @@ ais infrastructure. "AIS is Automatical Identification System for ships. Ships s
 Then our vds machine combines ais data with the data which has ship owner, ship manager etc. in it. Then sending those data directly to
 our API server. At the end you are sending requests to that API server and it returns it to you. Thats it.
 
-So if you want to compile this GUI with your own i will show you path;
+So if you want to compile this GUI with your own i will show you how;
 
 - Download the code as a zip, or clone it its up to you.
 - Also download UPX from its original website
