@@ -9,7 +9,7 @@ our API server. At the end you are sending requests to that API server and it re
 So if you want to compile this GUI with your own i will show you how;
 
 - Download the code as a zip, or clone it its up to you.
-- Also download UPX from its original website
+- Also download UPX from its original website > https://github.com/upx/upx/releases/tag/v4.2.4
 - Open your terminal and cd to path of this code
 - python -m venv myvenv
 - myvenv\Scripts\activate
